@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="org.covid19.db.CovidDao" project="Laprimavera" 
+    file="/Laprimavera/src/org/covid19/db/CovidDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="129" width="160" x="1189" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="org.covid19.db.CovidVo" project="Laprimavera" 
+    file="/Laprimavera/src/org/covid19/db/CovidVo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="234" width="156" x="795" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="3" language="java" name="org.covid19.db" project="Laprimavera" file="/Laprimavera/src/org/covid19/db" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="107" x="2571" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="4" language="java" name="org.reservation.login.LoginDao" project="Laprimavera" 
+    file="/Laprimavera/src/org/reservation/login/LoginDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="150" x="1735" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="org.covid19.naver.NaverNewsApi" project="Laprimavera" 
+    file="/Laprimavera/src/org/covid19/naver/NaverNewsApi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="157" x="598" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="org.reservation.ReservationDao" project="Laprimavera" 
+    file="/Laprimavera/src/org/reservation/ReservationDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="234" x="2297" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="org.reservation.ReservationDto" project="Laprimavera" 
+    file="/Laprimavera/src/org/reservation/ReservationDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="585" width="336" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="org.reservation.login.LoginDto" project="Laprimavera" 
+    file="/Laprimavera/src/org/reservation/login/LoginDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="135" x="1560" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="9" language="java" name="org.covid19.naver" project="Laprimavera" 
+    file="/Laprimavera/src/org/covid19/naver" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="125" x="2718" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="10" language="java" name="org.covid19.statusBoardApi" project="Laprimavera" 
+    file="/Laprimavera/src/org/covid19/statusBoardApi" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="181" x="1925" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="11" language="java" name="org.reservation" project="Laprimavera" file="/Laprimavera/src/org/reservation" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="111" x="2146" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="12" language="java" name="org.reservation.util" project="Laprimavera" 
+    file="/Laprimavera/src/org/reservation/util" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="131" x="1389" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="13" language="java" name="org.reservation.login" project="Laprimavera" 
+    file="/Laprimavera/src/org/reservation/login" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="141" x="417" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="14" language="java" name="org.reservation.util.JdbcUtil" project="Laprimavera" 
+    file="/Laprimavera/src/org/reservation/util/JdbcUtil.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1839" y="426"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="org.covid19.statusBoardApi.StatusBoard" project="Laprimavera" 
+    file="/Laprimavera/src/org/covid19/statusBoardApi/StatusBoard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="158" x="991" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

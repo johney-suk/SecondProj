@@ -1,0 +1,13 @@
+
+create table coviddb (
+    date varchar(20), ## 기준일
+    checkup varchar(10), ## 검체채취 가능유무
+    sido varchar(30), ## 시, 도
+    sigungu varchar(30), ## 시, 군, 구
+    name varchar(50), ## 진료소명
+    juso varchar(50), ## 진료소 주소
+    weekday varchar(50), ## 평일 진료시간
+    saturday varchar(50), ## 토요일 진료시간
+    holiday varchar(50), ## 일요일, 공휴일 진료시간
+    number varchar(50) ## 대표전화번호
+    )CHARSET=utf8mb4;
